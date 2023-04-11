@@ -1,4 +1,4 @@
-## Amazon Clone  <img src="./public/10001.ico" alt="drawing" style="vertical-align: middle" width="50"/>
+## Amazon Clone <img src="./public/10001.ico" alt="drawing" style="vertical-align: middle" width="50"/>
 
 ### This project is the part of Evangadi Coding bootcamp, project based learning schedule
 
@@ -8,9 +8,9 @@ React project created by vite.
     npm create vite@latest Amazon-clone -- --template react
 ```
 
-*Hosted on firebase server*
+_Hosted on firebase server_
 
-> [**Live Preview**](https://clone-d172f.web.app/)
+> [**Live Preview**](https://6435c64c9702f34895aaf3e3--gilded-queijadas-a30155.netlify.app/)
 
 npm packages used:
 
@@ -21,8 +21,9 @@ npm packages used:
 **Api/Back-End server used**
 
 [Amazon Backend](https://amazon-backend.up.railway.app/)
+
 > The backend hosted on free API hosting service of Railway.app
-Navigate to https://railway.app and set up your server freely.
+> Navigate to https://railway.app and set up your server freely.
 
 you can clone the project and use for anything
 
