@@ -26,7 +26,7 @@ npm packages used:
 you can clone the project and use for anything
 
 ```
-    git clone https://github.com/samsonmeseret/Amazon-Clone
+    git clone https://github.com/Selamawit-Kassaye/Amazon-Clone
 ```
 
 ### Enjoy
