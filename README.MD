@@ -8,8 +8,6 @@ React project created by vite.
     npm create vite@latest Amazon-clone -- --template react
 ```
 
-_Hosted on firebase server_
-
 > [**Live Preview**](https://6435c64c9702f34895aaf3e3--gilded-queijadas-a30155.netlify.app/)
 
 npm packages used:
